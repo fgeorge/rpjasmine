@@ -1,0 +1,17 @@
+{
+  "name": "testframework",
+  "version": "1.0.0",
+  "description": "testframwork for testing report portal",
+  "main": "",
+  "scripts": {
+    "webdriver-init": "webdriver-manager update && webdriver-manager start",
+    "protractor": "protractor conf/protractor.conf.js"
+  },
+  "author": " ",
+  "license": "ISC",
+  "dependencies": {
+    "@reportportal/agent-js-jasmine": "^5.0.0",
+    "protractor": "^7.0.0",
+    "webdriver-manager": "^12.1.8"
+  }
+}
