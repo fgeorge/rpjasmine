@@ -1,6 +1,8 @@
 # Report Portal example Testframework
 
-To run the example, install required modules :
+To run the example you must have java installed.
+
+Then install required modules :
 
 1. npm i
 
